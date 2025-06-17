@@ -1,1 +1,1 @@
-# myPage2025
+The information available on this repo is not real.
