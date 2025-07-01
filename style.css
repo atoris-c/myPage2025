@@ -69,3 +69,8 @@ table {
  border-radius: 50%;
 
 }
+
+body {
+  background-color: #f9f9f9; 
+  color: #222;
+}
